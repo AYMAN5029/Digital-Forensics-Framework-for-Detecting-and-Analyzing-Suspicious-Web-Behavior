@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Introduction
-This project focuses on detecting phished URLs using machine-learning techniques. It utilizes Django and Django REST Framework to create an API for URL classification. The project includes feature extraction, model training, and deployment for real-time URL classification. Frontend technologies consisting HTML, CSS, JacaScript, Bootstrap have been employed for designing and developing UI.
+This project focuses on detecting phishing URLs using machine learning techniques. It utilizes Django and Django REST Framework to create an API for URL classification. The project includes feature extraction, model training, and deployment for real-time URL classification. Front-end technologies, including HTML, CSS, JavaScript, and Bootstrap, have been employed for designing and developing the UI.
 
 ![photo_2023-09-12_14-16-09](https://github.com/Jndhaval/ML_Phishing_URL_Detection/assets/61612894/7ecfada0-e59a-49f5-9666-eb2c72851755)
 
@@ -32,7 +32,7 @@ To get started with this project, follow these steps:
 - Sequentially execute this code  
 
    ```bash
-  1. git clone https://github.com/your-username/phished-url-detection.git
+  1. git clone https://github.com/AYMAN5029/Digital-Forensics-Framework-for-Detecting-and-Analyzing-Suspicious-Web-Behavior.git
   2. pip install -r requirements.txt
   3. python manage.py migrate
   4. python manage.py runserver
