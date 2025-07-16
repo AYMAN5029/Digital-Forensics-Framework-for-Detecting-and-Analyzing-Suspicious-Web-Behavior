@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
 - Other required dependencies (specified in `requirements.txt`)
 
 ### Methodology
-![Methodolody](https://github.com/user-attachments/assets/886425b3-52c9-4618-9cf3-e412b888a2e0)
+![Methodolody](https://github.com/user-attachments/assets/8de46640-646c-4bf3-8f03-e5370a2ac7ae)
 
 ### Installation
 
